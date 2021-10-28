@@ -18,3 +18,7 @@ F1-macro score - 0.58162
 ```
 SciBERT model link - [Link to model](https://iiitaphyd-my.sharepoint.com/:f:/g/personal/dhaval_taunk_research_iiit_ac_in/ElHT-v0hC7lMr6DFlx3odV0B0ghruzMWC-nelhY-aCU91w?e=SNtwi1)
 
+
+## SBERT
+```
+F1-macro score - 0.5461
