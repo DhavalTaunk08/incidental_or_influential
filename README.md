@@ -1,5 +1,7 @@
 # incidental_or_influential
 
+To run the script, take the take the script corresponding to the model you want to use. Just run the required cells for training and inference purpose. Directly running from start to end will also train the model will also perform inference.
+
 ## ULMfit
 ```
 F1-macro score - 0.40480
