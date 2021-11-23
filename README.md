@@ -11,6 +11,8 @@ Below list shows the script name and the corresponding model used:-
 5. **ULMfit_0.41223.ipynb** - This script uses ULMfit model to fine-tune the dataset.
 6. **transformers-ire_bert_full_context.ipynb** - This script uses BERT model to fine-tune model on the full context dataset.
 7. **SBERT/** - This directory contains the code to fine-tune SBERT on the dataset. 
+8. **error_analysis.ipynb** - This script contains the code used to perform the error analysis on valdiation data.
+9. **submission_files/** - This directory contains the subsmission files submitted on kaggle to report the F1-macro score on test dataset.
 
 ## ULMfit
 ```
