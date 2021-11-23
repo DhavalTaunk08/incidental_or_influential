@@ -9,7 +9,7 @@ Below list shows the script name and the corresponding model used:-
 3. **transformers_ire_scibert_0.58162.ipynb** - This script uses SciBERT model to fine-tune the dataset.
 4. **transformers_ire_distilbert_0.55423.ipynb** - This script uses DistilBERT model to fine-tune the dataset.
 5. **ULMfit_0.41223.ipynb** - This script uses ULMfit model to fine-tune the dataset.
-6. **transformers_irebert_fulk_context.ipynb** - This script uses BERT model to fine-tune model on the full context dataset.
+6. **transformers_ire_bert_full_context.ipynb** - This script uses BERT model to fine-tune model on the full context dataset.
 7. **SBERT/** - This directory contains the code to fine-tune SBERT on the dataset. 
 
 ## ULMfit
