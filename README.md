@@ -14,7 +14,7 @@ Below list shows the script name and the corresponding model used:-
 
 ## ULMfit
 ```
-F1-macro score - 0.40480
+F1-macro score - 0.41223
 ```
 ULMfit model link - [Link to model](https://iiitaphyd-my.sharepoint.com/:u:/g/personal/dhaval_taunk_research_iiit_ac_in/EXzzKgg-pIFAhr_wTfXCo54BdZVkh6L3S96Y8iLpk4Xlwg?e=MzVfqy)
 
